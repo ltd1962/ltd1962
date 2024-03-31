@@ -1,4 +1,4 @@
-<body>
+![image](https://github.com/ltd1962/ltd1962/assets/165277669/80c95399-87a6-4701-ba62-de689bb9d069)<body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -56,7 +56,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/TheBlackXM" target="_blank"><img src="https://img.shields.io/badge/TheBlackXM%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> </p>
+<p align="center"><a href="https://twitter.com/TheBlackXM" target="_blank"><img src="https://img.shields.io/badge/TheBlackXM%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.facebook.com/longk.hoanghai" target="_blank"><img src="https://img.shields.io/badge/Hoàng%20Hải%20Long-%231877F2?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> </p>
 </div>
 <br>
 <div>
