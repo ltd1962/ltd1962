@@ -1,4 +1,4 @@
-![image](https://github.com/ltd1962/ltd1962/assets/165277669/80c95399-87a6-4701-ba62-de689bb9d069)<body>
+<body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
