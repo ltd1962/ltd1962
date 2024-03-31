@@ -55,7 +55,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/TheBlackXM" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> </p>
+<p align="center"><a href="https://twitter.com/TheBlackXM" target="_blank"><img src="https://img.shields.io/badge/TheBlackXM%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> </p>
 </div>
 <br>
 <div>
