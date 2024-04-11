@@ -32,7 +32,7 @@
 <b>Gender:</b> Male
 </li>
   <li>
- <b>Link CV:</b><a href="https://www.topcv.vn/xem-cv/AwFTBQxVAVVXAFVTXABRBAFXBQ4HAAdQU1BSXwb637">Hoàng Hải Long - CV</a></li>
+ <b>Link CV:</b><a href="https://www.topcv.vn/xem-cv/AwFTBQxVAVVXAFVTXABRBAFXBQ4HAAdQU1BSXwb637"> Hoàng Hải Long - CV</a></li>
 <li>
 <br><br><br>
 </div>
